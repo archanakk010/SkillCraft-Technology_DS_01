@@ -1,4 +1,4 @@
-# Distribution Analysis of Age and Gender in Employee Population
+# Data Visualization: Age and Gender Distribution in a Population
 ##  Project Overview
 
 This project analyzes and visualizes the distribution of employee demographic data, focusing on **Age** (a continuous variable) and **Gender** (a categorical variable). Using Python libraries like `pandas`, `matplotlib`, and `seaborn`, we generate intuitive visualizations to explore population trends and workforce composition.
